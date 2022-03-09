@@ -1,0 +1,10 @@
+import { Border, Buttons, Font, Pallete, Sizes, Theme, Typography } from 'styled-components';
+export declare const width: Sizes;
+export declare const height: Sizes;
+export declare const border: Border;
+export declare const palette: Pallete;
+export declare const font: Font;
+export declare const text: Typography;
+export declare const button: Buttons;
+declare const theme: Theme;
+export default theme;
